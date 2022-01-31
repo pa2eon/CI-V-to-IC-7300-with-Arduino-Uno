@@ -13,6 +13,10 @@ First of all we need a small part of hardware interface.<br>
 This schema will make the connection.
   
 ![image](https://user-images.githubusercontent.com/4719917/151844038-b9bdd832-afc1-4234-8623-0a687355c0c4.png)
+  
+<b>Used links:<b>
+  [1] https://kb3hha.com/ArticleDetails?id=6 <br>
+  [2]
 
 
   
