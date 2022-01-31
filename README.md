@@ -9,7 +9,8 @@ The 'CI-V transceive' you can leave, this option you can use to connect two IC-7
 First of all we need a small part of hardware interface.<br>
 This schema will make the connection.
   
-  ![image](https://user-images.githubusercontent.com/4719917/151843788-08076c8c-1c5d-4591-8bf0-9a9f31f3d7dc.png)
+![image](https://user-images.githubusercontent.com/4719917/151844038-b9bdd832-afc1-4234-8623-0a687355c0c4.png)
+
 
   
 
