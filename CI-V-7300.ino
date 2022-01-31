@@ -11,3 +11,4 @@
 // TX = Arduino to Icom radio  : to pin 2 via diode 1N4148, with pull up 10k to Vcc (5V) on tip of 3.5 mm connector
 
 SoftwareSerial mySerial = SoftwareSerial(1, 2); // (RX, TX)
+
