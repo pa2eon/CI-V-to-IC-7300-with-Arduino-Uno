@@ -13,6 +13,9 @@ First of all we need a small part of hardware interface.<br>
 This schema will make the connection.
   
 ![image](https://user-images.githubusercontent.com/4719917/151844038-b9bdd832-afc1-4234-8623-0a687355c0c4.png)
+
+What are the basics to use the interface, a good readable webpage is at [1].<br>
+We have to 'ask' the rig to do something with an command, in the *.ino code we will explain this by comment code.<p>
   
 <b>Used links:</b><br>
   [1] https://kb3hha.com/ArticleDetails?id=6 <br>
