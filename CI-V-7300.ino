@@ -19,11 +19,13 @@ void setup() {
   
   pinMode(1, INPUT);   // CI-V serial communication from IC7300
   pinMode(2, OUTPUT); // CI-V serial communication to IC7300
- 
+  
+  Serial.begin(BAUD_RATE);   // Dump info to serial monitor
   mySerial.begin(BAUD_RATE);
   mySerial.listen();  // only one port can be made to listen with software serial
 
 while (mySerial.available()) mySerial.read(); // clean buffer
+Serial.print("waiting for CI-V");
 
 }
 
