@@ -19,7 +19,8 @@ We have to 'ask' the rig to do something with an command, in the *.ino code we w
   
 <b>Used links:</b><br>
   [1] https://kb3hha.com/ArticleDetails?id=6 <br>
-  [2]
+  [2] https://jj1jpm.at.webry.info/201608/article_1.html<br>
+  [3]
 
 
   
