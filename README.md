@@ -2,7 +2,7 @@
 
 <b> ++++ ERROR - The D0 and D1 ports you can NOT use for I/O of the CI-V bus if USB connection (serial) is active ++++ </b><br>
 
-This repository will give information (also for beginner Ham) to use the remote port (CI-V stands for Communications Interface 5) on the IC-7300 transceiver to the Arduino UNO
+This repository will give information (also for beginner Ham) to use the remote port (CI-V stands for Communications Interface 5) on the IC-7300 transceiver to the Arduino UNO with or without TFT screen (in development !)
 
 Looking inside the menu of the IC-7300 you will find the CI-V settings.<br>
 To communicate via the USB-CI-V commands you can use the address 00h.<br>
