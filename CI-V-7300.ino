@@ -1,4 +1,4 @@
-/* This smal script will 'ask the IC-7300' the active frequency
+/* This small script will 'ask the IC-7300' the active frequency
 *  (c) PA2EON - Eric
 */
 
@@ -17,7 +17,7 @@ int readCounter; // counts the number of bytes received from the radio
 
 void setup() { 
   
-  piMode(1, INPUT);   // CI-V serial communication from IC7300
+  pinMode(1, INPUT);   // CI-V serial communication from IC7300
   pinMode(2, OUTPUT); // CI-V serial communication to IC7300
  
   mySerial.begin(BAUD_RATE);
