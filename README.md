@@ -15,7 +15,8 @@ To communicate via the remote connector you can use the address 94h.<br>
 First of all we need a small part of hardware interface.<br>
 This schema will make the connection.
 
-![image](https://user-images.githubusercontent.com/4719917/152031094-1e2d6582-1b1d-4ea0-bbf7-215b35c92879.png)
+![image](https://user-images.githubusercontent.com/4719917/152031252-81abdf0e-3988-4e99-84fb-821411a88f9b.png)
+
 
 What are the basics to use the interface, a good readable webpage is at [1].<br>
 We have to 'ask' the rig to do something with an command, in the *.ino code we will explain this by comment code.<p>
