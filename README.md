@@ -2,6 +2,15 @@
 
 <b> ++++ ERROR - The D0 and D1 ports you can NOT use for I/O of the CI-V bus if USB connection (serial) is active ++++ </b><br>
 
+Update:
+
+Ad a. To see result of the code when D0 and D1 pins are used you can use an 4 lines I2C LCD display [3] .
+After downloading the code to the Arduino, disconnect the USB upload cable and use external power.
+On the LCD you can see the result of the CI-V code.
+
+Ad b. In test we will switch later to the TFT screen communication as wanted before.
+On that place we use again the D0 and D1 pin
+
 This repository will give information (also for beginner Ham) to use the remote port (CI-V stands for Communications Interface 5) on the IC-7300 transceiver to the Arduino UNO with or without TFT screen (in development !)
 
 Looking inside the menu of the IC-7300 you will find the CI-V settings.<br>
@@ -20,11 +29,11 @@ This schema will make the connection.
 
 What are the basics to use the interface, a good readable webpage is at [1].<br>
 We have to 'ask' the rig to do something with an command, in the *.ino code we will explain this by comment code.<p>
-  
+
 <b>Used links:</b><br>
   [1] https://kb3hha.com/ArticleDetails?id=6 <br>
   [2] https://jj1jpm.at.webry.info/201608/article_1.html<br>
-  [3]
+  [3] https://www.makerguides.com/character-i2c-lcd-arduino-tutorial/
 
 
   
