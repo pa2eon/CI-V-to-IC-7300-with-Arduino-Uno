@@ -4,12 +4,12 @@
 
 Update:
 
-Ad a. To see result of the code when D0 and D1 pins are used you can use an 4 lines I2C LCD display [3] .
-After downloading the code to the Arduino, disconnect the USB upload cable and use external power.
-On the LCD you can see the result of the CI-V code.
+Ad a. To see result of the code when D0 and D1 pins are used you can use an 4 lines I2C LCD display [3]. <br>
+After downloading the code to the Arduino, disconnect the USB upload cable and use external power.<br>
+On the LCD you can see the result of the CI-V code.<p>
 
-Ad b. In test we will switch later to the TFT screen communication as wanted before.
-On that place we use again the D0 and D1 pin
+Ad b. In test we will switch later to the TFT screen communication as wanted before.<br>
+On that place we use again the D0 and D1 pin.<p>
 
 This repository will give information (also for beginner Ham) to use the remote port (CI-V stands for Communications Interface 5) on the IC-7300 transceiver to the Arduino UNO with or without TFT screen (in development !)
 
