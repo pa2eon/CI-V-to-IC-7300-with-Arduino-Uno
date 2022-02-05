@@ -23,6 +23,7 @@ To communicate via the remote connector you can use the address 94h.<br>
   
 First of all we need a small part of hardware interface.<br>
 This schema will make the connection.
+    Note: The I2C 4 lines LCD display is not in this drawing .. it uses the standard pins: GND, 5V, A4, A5 (see note [3]
 
 ![image](https://user-images.githubusercontent.com/4719917/152646777-8567914d-8dd7-4ba0-b522-277836b912ab.png)
 
