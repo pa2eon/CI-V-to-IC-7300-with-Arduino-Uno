@@ -4,8 +4,7 @@
 
 Update:
 
-Ad a. To see result of the code when D0 and D1 pins are used you can use an 4 lines I2C LCD display [3]. <br>
-After downloading the code to the Arduino, disconnect the USB upload cable and use external power.<br>
+Ad a. To see result of the code when D4 and D7 pins are used you can use an 4 lines I2C LCD display [3]. <br>
 On the LCD you can see the result of the CI-V code.<p>
 
 Ad b. In test we will switch later to the TFT screen communication as wanted before.<br>
@@ -31,6 +30,11 @@ This schema will make the connection.
 What are the basics to use the interface, a good readable webpage is at [1].<br>
 We have to 'ask' the rig to do something with an command, in the *.ino code we will explain this by comment code.<p>
 
+  <b>To Do:</b><p>
+* Check the use of an TFT screen
+* Make routine more clear to use more lines on LCD
+* Give commands to IC-7300 (push button or other)    
+    
 <b>Used links:</b><br>
   [1] https://kb3hha.com/ArticleDetails?id=6 <br>
   [2] https://jj1jpm.at.webry.info/201608/article_1.html<br>
